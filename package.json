@@ -1,11 +1,11 @@
 {
-  "name": "jquery-component",
-  "version": "1.9.1",
+  "name": "component-jquery",
   "description": "jQuery component",
-  "keywords": ["jquery", "component"],
-  "component": {
-    "scripts": {
-      "jquery": "dist/jquery.js"
-    }
-  }
+  "version": "1.9.1",
+  "keywords": [
+    "jquery",
+    "component"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }

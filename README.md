@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [component/jquery](http://github.com/component/jquery). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-jquery`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
 
